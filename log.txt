@@ -1,0 +1,9 @@
+Match found: checkstyle-idea.xml
+Match found: compiler.xml
+Match found: encodings.xml
+Match found: jarRepositories.xml
+Match found: misc.xml
+Match found: vcs.xml
+Match found: workspace.xml
+Match found: checkstyle.xml
+Match found: pom.xml
